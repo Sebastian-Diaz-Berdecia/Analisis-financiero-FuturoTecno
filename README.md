@@ -6,10 +6,9 @@ El objetivo de este proyecto es la construcción de un tablero o dashboard que r
 ## 🗂 Índice 
 
 * ### [Dashboard.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno#-dashboard-an%C3%A1lisis-financiero-futurotecno)
-* ### [Preguntas](https://github.com/Sebastian-Diaz-Berdecia/Proyecto-2-netflixDB#preguntas-1):
-  *  [¿Qué géneros son más prevalentes en la base de datos NetflixDB?](https://github.com/Sebastian-Diaz-Berdecia/Proyecto-2-netflixDB#1-qu%C3%A9-g%C3%A9neros-son-m%C3%A1s-prevalentes-en-la-base-de-datos-netflixdb)
-  *  [¿Cuáles son las tres series con mayor rating IMDB y cuántos episodios tienen?](https://github.com/Sebastian-Diaz-Berdecia/Proyecto-2-netflixDB/tree/main#2-cu%C3%A1les-son-las-tres-series-con-mayor-rating-imdb-y-cu%C3%A1ntos-episodios-tienen)
-  *  [¿Cuál es la duración total de todos los episodios para la serie "Stranger Things"?](https://github.com/Sebastian-Diaz-Berdecia/Proyecto-2-netflixDB/tree/main#3-cu%C3%A1l-es-la-duraci%C3%B3n-total-de-todos-los-episodios-para-la-serie-stranger-things)
+* ### [Dataset](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno/tree/main?tab=readme-ov-file#-registros-futurotecno)
+* ###
+
 
 ---
 
