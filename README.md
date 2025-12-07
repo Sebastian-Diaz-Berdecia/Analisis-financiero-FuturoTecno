@@ -45,6 +45,9 @@ A continuación se muestran las expresiones DAX utilizadas para cálcular los in
 <img width="449" height="29" alt="image" src="https://github.com/user-attachments/assets/e72412f1-96d4-46e4-a7f0-20d9b4d9db9c" />
 
 
+* #### Para el calculo de los margenes:
+
+<img width="563" height="29" alt="image" src="https://github.com/user-attachments/assets/be86ed02-ee34-4a47-84d9-3f5b691d24cd" />
 
 
 
