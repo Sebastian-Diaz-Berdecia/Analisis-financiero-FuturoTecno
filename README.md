@@ -18,9 +18,9 @@ El objetivo de este proyecto es la construcción de un tablero o dashboard que r
 <img width="1311" height="738" alt="image" src="https://github.com/user-attachments/assets/de35d93d-cb02-45ea-a8b3-39109c613a10" />
 
 
-## Preguntas:
+## Registros FuturoTecno
 
-A continuación se muestran los primeros 22 de los 1645 registros de los datos financieros de la empresa FuturoTecno para los periodos comprendidos entre los años 2020 y 2022.
+A continuación se muestran los primeros 22 de los 1645 registros de los datos financieros de la empresa FuturoTecno para los periodos comprendidos entre los años 2020 y 2022. La tabla con todos los registros se puede encontrar en el libro de excel en los archivos adjuntos.
 
 <img width="1149" height="621" alt="image" src="https://github.com/user-attachments/assets/5fdb0482-b87a-40a4-9edd-bc67f099f185" />
 
