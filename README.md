@@ -49,10 +49,13 @@ A continuación se muestran las expresiones DAX utilizadas para cálcular los in
 
 <img width="563" height="29" alt="image" src="https://github.com/user-attachments/assets/be86ed02-ee34-4a47-84d9-3f5b691d24cd" />
 
+* #### Los ingresos, gastos, beneficios y margenes totales para toda la operación serian los siguientes: 
 
+<img width="852" height="93" alt="image" src="https://github.com/user-attachments/assets/553ada16-383d-45e0-8da1-68da67134408" />
 
+* #### En las siguentes tablas se muestran los beneficios y margenes por país, marca y cliente ademas de su comportamiento para el acumulado de todos los meses de la operación:
 
-
+<img width="1256" height="586" alt="image" src="https://github.com/user-attachments/assets/30f09575-5b7a-4194-932c-e7f2d00d3320" />
 
 
 
