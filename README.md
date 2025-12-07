@@ -25,7 +25,7 @@ A continuación se muestran los primeros 22 de los 1645 registros de los datos f
 <img width="1149" height="621" alt="image" src="https://github.com/user-attachments/assets/5fdb0482-b87a-40a4-9edd-bc67f099f185" />
 
 
-## Cálculo de los ingresos, gastos, beneficios y margenes totales
+## Cálculo de los ingresos, gastos, beneficios y márgenes totales
 
 
 
