@@ -58,7 +58,7 @@ A continuación se muestran las expresiones DAX utilizadas para cálcular los in
 
 
 >[!NOTE]
->En la parte izquierda del tablero se pueden apreciar cuatro segementaciones, una para el año/periodo, otra para el país, la tercera para la marca y la última para el cliente. De esta manera podemos filtrar nuestro análisis para responder a nuestras preguntas de negocio según corresponda. 
+>En la parte izquierda del tablero se pueden apreciar cuatro segementaciones, una para el año/periodo, otra para el país, la tercera para la marca y la última para el cliente. De esta manera podemos filtrar/segmentar el análisis para responder a las preguntas de negocio según corresponda. 
 
 
 ---
