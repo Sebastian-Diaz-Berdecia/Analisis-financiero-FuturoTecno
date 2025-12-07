@@ -7,7 +7,7 @@ El objetivo de este proyecto es la construcción de un tablero o dashboard que r
 
 * ### [Dashboard.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno#-dashboard-an%C3%A1lisis-financiero-futurotecno)
 * ### [Registros.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno/tree/main?tab=readme-ov-file#-registros-futurotecno)
-* ### [Cálculos y medidas DAX.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno/tree/main?tab=readme-ov-file#-c%C3%A1lculo-de-los-ingresos-gastos-beneficios-y-m%C3%A1rgenes-totales)
+* ### [Ingresos, gastos, beneficios y márgenes.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno/tree/main?tab=readme-ov-file#-c%C3%A1lculo-de-los-ingresos-gastos-beneficios-y-m%C3%A1rgenes-totales)
 
 
 ---
