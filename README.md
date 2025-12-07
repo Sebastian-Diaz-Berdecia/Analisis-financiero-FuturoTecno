@@ -5,9 +5,9 @@ El objetivo de este proyecto es la construcción de un tablero o dashboard que r
 
 ## 🗂 Índice 
 
-* ### [Dashboard.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno#-dashboard-an%C3%A1lisis-financiero-futurotecno)
-* ### [Dataset](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno/tree/main?tab=readme-ov-file#-registros-futurotecno)
-* ###
+* #### [Dashboard.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno#-dashboard-an%C3%A1lisis-financiero-futurotecno)
+* #### [Registros.](https://github.com/Sebastian-Diaz-Berdecia/Analisis-financiero-FuturoTecno/tree/main?tab=readme-ov-file#-registros-futurotecno)
+* #### [Cálculos y medidas DAX]()
 
 
 ---
