@@ -57,7 +57,8 @@ A continuación se muestran las expresiones DAX utilizadas para cálcular los in
 
 <img width="1256" height="586" alt="image" src="https://github.com/user-attachments/assets/30f09575-5b7a-4194-932c-e7f2d00d3320" />
 
-
+>[!NOTE]
+>En la parte derecha del tablero se pueden apreciar cuatro segementaciones, una para el año/periodo, otra para el país, la tercera para la marca y la utima para el cliente. De esta manera podemos filtrar nuestro análisis para responder a nuestras preguntas de negocio según corresponda. 
 
 
 ---
