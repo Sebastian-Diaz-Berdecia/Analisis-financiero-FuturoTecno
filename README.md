@@ -1,6 +1,6 @@
 # 📊 Análisis Financiero FuturoTecno
 
-El objetivo de este proyecto es la construcción de un tablero o dashboard que resuma y organice toda la información del rendimiento financiero de la empresa FuturoTecno entre los periodos de 2020 y 2022 segmentada y organizada por país, marca y cliente. Se busca determinar y visualizar los ingresos, gastos, beneficios y margenes totales para de toda la operación así como tambien para cada país, marca y cliente.
+El objetivo de este proyecto es la construcción de un tablero o dashboard que resuma y organice toda la información del rendimiento financiero de la empresa FuturoTecno entre los periodos de  los años 2020 y 2022 segmentada y organizada por país, marca y cliente. Se busca determinar y visualizar los ingresos, gastos, beneficios y margenes totales para de toda la operación así como tambien para cada país, marca y cliente.
 
 
 ## 🗂 Índice 
