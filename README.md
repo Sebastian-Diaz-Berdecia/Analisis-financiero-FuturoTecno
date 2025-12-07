@@ -1,6 +1,7 @@
-# 📊 Análisis de la popularidad de series y géneros de series en NetflixDB
+# 📊 Análisis Financiero FuturoTecno
 
-El proposito de este ejercicio es por medio de consultas SQL responder algunas preguntas sobre la popularidad y prevalencia de las series y géneros de series contenidos en la base de datos de prueba [NetflixDB](https://github.com/Sebastian-Diaz-Berdecia/NetflixDB-MySQL-Workbench), así como también sobre el compromiso temporal requerido para ver dichas series.
+El objetivo de este proyecto es la construcción de un tablero o dashboard que resuma y organice toda la información del rendimiento financiero de la empresa FuturoTecno entre los periodos de 2020 y 2022 segmentada y organizada por país, marca y cliente. Se busca determinar y visualizar los ingresos, gastos, beneficios y margenes totales para de toda la operación así como tambien para cada país, marca y cliente.
+
 
 ## 🗂 Índice 
 
@@ -9,16 +10,13 @@ El proposito de este ejercicio es por medio de consultas SQL responder algunas p
   *  [¿Qué géneros son más prevalentes en la base de datos NetflixDB?](https://github.com/Sebastian-Diaz-Berdecia/Proyecto-2-netflixDB#1-qu%C3%A9-g%C3%A9neros-son-m%C3%A1s-prevalentes-en-la-base-de-datos-netflixdb)
   *  [¿Cuáles son las tres series con mayor rating IMDB y cuántos episodios tienen?](https://github.com/Sebastian-Diaz-Berdecia/Proyecto-2-netflixDB/tree/main#2-cu%C3%A1les-son-las-tres-series-con-mayor-rating-imdb-y-cu%C3%A1ntos-episodios-tienen)
   *  [¿Cuál es la duración total de todos los episodios para la serie "Stranger Things"?](https://github.com/Sebastian-Diaz-Berdecia/Proyecto-2-netflixDB/tree/main#3-cu%C3%A1l-es-la-duraci%C3%B3n-total-de-todos-los-episodios-para-la-serie-stranger-things)
-  *  [Se desea obtener un listado de todas las series cuyo género hace parte del top 3 de los generos mas populares por cantidad de series, así como tambien conocer el titulo, el año de lanzamiento, género y    rating imdb promedio.](https://github.com/Sebastian-Diaz-Berdecia/Proyecto-2-netflixDB/tree/main#4-se-desea-obtener-un-listado-de-todas-las-series-cuyo-g%C3%A9nero-hace-parte-del-top-3-de-los-generos-mas-populares-por-cantidad-de-series-as%C3%AD-como-tambien-conocer-el-titulo-el-a%C3%B1o-de-lanzamiento-g%C3%A9nero-y-rating-imdb-promedio)
-  * [Ahora se busca generar un listado o ranking de series que contenga el titulo de la serie, la cantidad de episodios de cada serie y el rating imdb promedio de cada una de ellas. El objetivo es identificar las series más exitosas basandonos en el rating imdb promedio de cada serie y en la cantidad de episodios.](https://github.com/Sebastian-Diaz-Berdecia/Proyecto-2-netflixDB/tree/main#5-ahora-se-busca-generar-un-listado-o-ranking-de-series-que-contenga-el-titulo-de-la-serie-la-cantidad-de-episodios-de-cada-serie-y-el-rating-imdb-promedio-de-cada-una-de-ellas-el-objetivo-es-identificar-las-series-m%C3%A1s-exitosas-basandonos-en-el-rating-imdb-promedio-de-cada-serie-y-en-la-cantidad-de-episodios)
 
 ---
 
-## 🔑 Diagrama entidad relación para la base de datos NetflixDB (DER) 
+## 🔑 Dashboard análisis financiero FuturoTecno
 
-NetflixDB es una base de datos que consta de cuatro tablas: _series_, _actuaciones_, _actores_ y _episodios_ en donde se alamacena informacion sobre los episodios y actores de algunas series disponibles en el servicio de streaming de Neflix. A continuacion se muestra su diagrama entidad relación.
+<img width="1311" height="738" alt="image" src="https://github.com/user-attachments/assets/de35d93d-cb02-45ea-a8b3-39109c613a10" />
 
-<img width="858" height="572" alt="image" src="https://github.com/user-attachments/assets/58e28b97-6de9-45a4-a568-39ae13a0999c" />
 
 ## Preguntas:
 ### 1. ¿Qué géneros son más prevalentes en la base de datos NetflixDB? 
