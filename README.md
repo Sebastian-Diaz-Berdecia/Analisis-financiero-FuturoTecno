@@ -53,7 +53,7 @@ A continuación se muestran las expresiones DAX utilizadas para cálcular los in
 <img width="852" height="93" alt="image" src="https://github.com/user-attachments/assets/553ada16-383d-45e0-8da1-68da67134408" />
 
 
-* #### En las siguentes tablas se muestran los beneficios y margenes por país, marca y cliente ademas de su comportamiento para el acumulado de todos los meses de la operación para el periodo 2020:
+* #### En las siguentes tablas se muestran los beneficios y margenes por país, marca y cliente ademas del comportamiento mensual de los ingresos y gastos para el periodo 2020:
 
 <img width="1256" height="586" alt="image" src="https://github.com/user-attachments/assets/30f09575-5b7a-4194-932c-e7f2d00d3320" />
 
