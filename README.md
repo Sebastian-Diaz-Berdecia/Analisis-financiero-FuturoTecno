@@ -48,7 +48,7 @@ A continuación se muestran las expresiones DAX utilizadas para cálcular los in
 
 <img width="563" height="29" alt="image" src="https://github.com/user-attachments/assets/be86ed02-ee34-4a47-84d9-3f5b691d24cd" />
 
-* #### Los ingresos, gastos, beneficios y márgenes totales para toda la operación serian los siguientes: 
+* #### Los ingresos, gastos, beneficios y márgenes totales para toda la operación en periodo 2020 serian los siguientes: 
 
 <img width="852" height="93" alt="image" src="https://github.com/user-attachments/assets/553ada16-383d-45e0-8da1-68da67134408" />
 
